@@ -1000,7 +1000,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d512cfff2b18b5408376600f8ccb10c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  brickPrefab: {fileID: 0}
+  brickPrefab: {fileID: 856310540651512245, guid: c054d60aed775aa469f2b9a626c74f21, type: 3}
   paddingBetweenBricks: 0.25
 --- !u!4 &1510609908
 Transform:
